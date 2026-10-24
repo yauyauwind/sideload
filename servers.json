@@ -1,0 +1,9 @@
+{
+  "servers": [
+    {
+      "name": "Unraid",
+      "address": "https://sideload.windmay.com",
+      "kind": 0
+    }
+  ]
+}
